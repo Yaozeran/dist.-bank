@@ -1,0 +1,8 @@
+# Cmake
+build
+
+# Operating system
+.DS_Store
+
+# Visual studio code
+.vscode
